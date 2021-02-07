@@ -2,6 +2,7 @@
 5HR3D's Mail Spoofer. Spoof E-mails from your comfort zone aka terminal :p 
 ## What is it actually?
 Email spoofing is the creation of email messages with a forged sender address. The core email protocols do not have any mechanism for authentication, making it common for spam and phishing emails to use such spoofing to mislead or even prank the recipient about the origin of the message. via <a href="https://en.wikipedia.org/wiki/Email_spoofing">WikiPedia</a>.
+
 ## Installation
 Clone the repository
 ```sh
@@ -15,6 +16,7 @@ $ cd MailSpoofer
 Prerequisites
 - git
 - internet lol
+
 ## Use
 Give file executable permissions
 ```sh
