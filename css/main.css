@@ -1,6 +1,5 @@
 
-
-
+/* https://linktr.ee/5HR3D */
 
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
@@ -9,19 +8,14 @@
   font-family: Poppins-Regular;
   src: url('../fonts/poppins/Poppins-Regular.ttf'); 
 }
-
 @font-face {
   font-family: Poppins-Medium;
   src: url('../fonts/poppins/Poppins-Medium.ttf'); 
 }
-
 @font-face {
   font-family: Poppins-Bold;
   src: url('../fonts/poppins/Poppins-Bold.ttf'); 
 }
-
-
-
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
@@ -76,7 +70,6 @@ ul, li {
 	list-style-type: none;
 }
 
-
 /*---------------------------------------------*/
 input {
 	outline: none;
@@ -123,9 +116,6 @@ iframe {
 	border: none !important;
 }
 
-
-
-
 /*//////////////////////////////////////////////////////////////////
 [ Contact 2 ]*/
 .bgspoofer {
@@ -163,9 +153,7 @@ iframe {
   padding: 72px 55px 15px 55px;
 }
 
-
-/*------------------------------------------------------------------
-[  ]*/
+/*------------------------------------------------------------------*/
 
 .spoofer-form {
   width: 100%;
@@ -182,10 +170,7 @@ iframe {
   padding-bottom: 70px;
 }
 
-
-
-/*------------------------------------------------------------------
-[  ]*/
+/*------------------------------------------------------------------*/
 
 .wrap-input3 {
   width: 100%;
@@ -231,8 +216,6 @@ iframe {
 
   background: #fff;
 }
-
-
 /*---------------------------------------------*/
 input.input3 {
   height: 45px;
@@ -244,7 +227,6 @@ textarea.input3 {
   padding-top: 13px;
   padding-bottom: 13px;
 }
-
 
 .input3:focus + .focus-input3::before {
   width: 100%;
@@ -281,12 +263,7 @@ textarea.input3 {
   position: relative;
   z-index: 1;
   background: rgba(280,255,255,0.8);
-  /*background: red;
-  background: -webkit-linear-gradient(-135deg, #93291E, #ED213A);
-  background: -o-linear-gradient(-135deg, #93291E, #ED213A);
-  background: -moz-linear-gradient(-135deg, #93291E, #ED213A);
-  background: linear-gradient(-135deg, #93291E, #ED213A);
-*/
+
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
@@ -342,73 +319,9 @@ textarea.input3 {
   color:white;
 }
 
-
 .contactme:hover {
   color:#ED213A;
 }
-
-/*//////////////////////////////////////////////////////////////////////////
-[CHECK BOX T&C]*/
-
-/* Customize the label (the container) */
-/*
-.checbox-container {
-  display: ;
-  position: relative;
-  padding-left: 35px;
-  margin-bottom: 12px;
-  cursor: pointer;
-  font-size: 22px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
-/* Hide the browser's default checkbox 
-.checkbox-container input {
-  position: absolute;
-  opacity: 0;
-  cursor: pointer;
-  height: 0;
-  width: 0;
-}
-
-/* Create a custom checkbox 
-.checkmark {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 25px;
-  width: 25px;
-  background-color: #eee;
-}
-
-/* On mouse-over, add a grey background color 
-.checkbox-container:hover input ~ .checkmark {
-  background-color: #ccc;
-}
-
-/* When the checkbox is checked, add a blue background 
-.checkbox-container input:checked ~ .checkmark {
-  background-color: #2196F3;
-}
-
-
-
-/* Style the checkmark/indicator 
-.checkbox-container .checkmark:after {
-  left: 9px;
-  top: 5px;
-  width: 5px;
-  height: 10px;
-  border: solid white;
-  border-width: 0 3px 3px 0;
-  -webkit-transform: rotate(45deg);
-  -ms-transform: rotate(45deg);
-  transform: rotate(45deg);
-*/
-
 
 /*////////////////////////////////////////////////////////////////*/
 /*[CHECKBOX]*/
@@ -463,7 +376,6 @@ textarea.input3 {
 .container input:checked ~ .checkmark:after {
   display: block;
 }
-
 /* Style the checkmark/indicator */
 .container .checkmark:after {
   left: 9px;
@@ -476,4 +388,3 @@ textarea.input3 {
   -ms-transform: rotate(45deg);
   transform: rotate(45deg);
 } 
-
