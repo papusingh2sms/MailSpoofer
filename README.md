@@ -13,7 +13,7 @@ Change directory
 $ cd MailSpoofer
 ```
 <br>
-Prerequisites
+Prerequisites:
 <ul><li>git</li>
 <li>internet lol</li></ul>
 
