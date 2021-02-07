@@ -14,8 +14,8 @@ $ cd MailSpoofer
 ```
 <br>
 Prerequisites
-- git
--internet lol
+<ul><li>git</li>
+<li>internet lol</li></ul>
 
 ## Use
 Give file executable permissions
