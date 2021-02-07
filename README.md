@@ -26,4 +26,4 @@ The folder "Site" contains MailSpoofer's web-application's files. Check for host
 The most important file here is the 'mailer.php'.
 <br>
 ## Demo
-Check out live by clicking <a href="5hrmailspoofer.000webhostapp.com">here</a>.
+Check out live by clicking <a href="https://5hrmailspoofer.000webhostapp.com">here</a>.
